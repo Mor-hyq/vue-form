@@ -1,4 +1,4 @@
-# vue-form  branch dev
+# vue-form 
 
 ## Project setup
 ```
@@ -28,4 +28,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-uiouoo
+resolve conficts
