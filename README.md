@@ -1,4 +1,4 @@
-# vue-buy
+# vue-form
 
 ## Project setup
 ```
