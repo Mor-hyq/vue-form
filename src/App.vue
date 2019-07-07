@@ -6,7 +6,7 @@
       <li v-for="(item, index) in goods" :key="index">
         <span>{{item.text}}</span>
         <span>￥{{item.price}}</span>
-        <button @click="addCarts(index)">添加购物车</button>
+        <button @click="addCarts(index)">添加购物车s</button>
       </li>
     </ul>
     <!-- <input type="text" v-model="text">
